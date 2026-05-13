@@ -1,0 +1,15 @@
+:root {
+  --bg-app: #f9f8ff;
+  --bg-card: rgba(255, 255, 255, 0.88);
+  --text-main: #2e2545;
+  --text-muted: #71658f;
+  --accent: #8f7bff;
+  --accent-pink: #ff6fb4;
+  --accent-mint: #67d6bf;
+  --accent-lavender: #c5b5ff;
+  --good: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --border-subtle: #e8e2ff;
+  --shadow-card: 0 8px 24px rgba(69, 45, 119, 0.12);
+}
